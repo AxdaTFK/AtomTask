@@ -6,6 +6,7 @@ public class ElectronOrbit : MonoBehaviour
 
     public float radiusX = 5f;
     public float radiusY = 2.5f;
+    
     public float speed = 300f;
 
     public float startAngle = 0f;
