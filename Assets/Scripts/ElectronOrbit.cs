@@ -15,8 +15,8 @@ public class ElectronOrbit : MonoBehaviour
 
     public SpriteRenderer sr;
     public int nucleusOrder = 10;
-    public int frontOffset = 1;
-    public int backOffset = 1;
+    public int frontOffset = 5;
+    public int backOffset = 5;
 
     private float angle;
 
