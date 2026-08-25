@@ -20,10 +20,37 @@ public class ElectronOrbit : MonoBehaviour
 
     private float angle;
 
+    public LineRenderer orbitLine;
+    public int orbitSegments = 60;
+    
     void Start()
     {
         angle = startAngle;
         if (sr == null) sr = GetComponent<SpriteRenderer>();
+        DibujarOrbita();
+    }
+
+    void DibujarOrbita()
+    {
+        if (orbitLine == null) return;
+
+        orbitLine.positionCount = orbitSegments;
+        orbitLine.loop = true; 
+
+        for (int i = 0; i < orbitSegments; i++)
+        {
+            float a = (360f / orbitSegments) * i * Mathf.Deg2Rad;
+
+            float elipX = radiusX * Mathf.Cos(a);
+            float elipY = radiusY * Mathf.Sin(a);
+
+            float rotRad = rotation * Mathf.Deg2Rad;
+            float x = elipX * Mathf.Cos(rotRad) - elipY * Mathf.Sin(rotRad);
+            float y = elipX * Mathf.Sin(rotRad) + elipY * Mathf.Cos(rotRad);
+
+            Vector3 point = center.position + new Vector3(x, y, 0);
+            orbitLine.SetPosition(i, point);
+        }
     }
 
     void Update()
