@@ -283,6 +283,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &6509014
 SpriteRenderer:
   serializedVersion: 3
@@ -398,6 +400,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &9274479
 SpriteRenderer:
   serializedVersion: 3
@@ -840,6 +844,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &36514631
 SpriteRenderer:
   serializedVersion: 3
@@ -1609,6 +1615,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &70583987
 SpriteRenderer:
   serializedVersion: 3
@@ -1724,6 +1732,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &71752600
 SpriteRenderer:
   serializedVersion: 3
@@ -2057,6 +2067,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &93066326
 SpriteRenderer:
   serializedVersion: 3
@@ -3044,6 +3056,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &144006330
 SpriteRenderer:
   serializedVersion: 3
@@ -3268,6 +3282,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &149446657
 SpriteRenderer:
   serializedVersion: 3
@@ -3928,6 +3944,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &176924607
 SpriteRenderer:
   serializedVersion: 3
@@ -4261,6 +4279,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &187788660
 SpriteRenderer:
   serializedVersion: 3
@@ -5030,6 +5050,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &256802566
 SpriteRenderer:
   serializedVersion: 3
@@ -5303,6 +5325,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &283701944
 SpriteRenderer:
   serializedVersion: 3
@@ -6181,6 +6205,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &321541439
 SpriteRenderer:
   serializedVersion: 3
@@ -6296,6 +6322,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &322509361
 SpriteRenderer:
   serializedVersion: 3
@@ -6411,6 +6439,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &325682507
 SpriteRenderer:
   serializedVersion: 3
@@ -6853,6 +6883,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &349124712
 SpriteRenderer:
   serializedVersion: 3
@@ -7077,6 +7109,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &353427671
 SpriteRenderer:
   serializedVersion: 3
@@ -7192,6 +7226,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &376454735
 SpriteRenderer:
   serializedVersion: 3
@@ -7307,6 +7343,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &401543596
 SpriteRenderer:
   serializedVersion: 3
@@ -7749,6 +7787,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &416034685
 SpriteRenderer:
   serializedVersion: 3
@@ -8082,6 +8122,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &455128051
 SpriteRenderer:
   serializedVersion: 3
@@ -8197,6 +8239,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &463065691
 SpriteRenderer:
   serializedVersion: 3
@@ -8312,6 +8356,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &464579219
 SpriteRenderer:
   serializedVersion: 3
@@ -8536,6 +8582,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &476117163
 SpriteRenderer:
   serializedVersion: 3
@@ -8651,6 +8699,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &483016913
 SpriteRenderer:
   serializedVersion: 3
@@ -9202,6 +9252,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &495438933
 SpriteRenderer:
   serializedVersion: 3
@@ -9317,6 +9369,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &497846165
 SpriteRenderer:
   serializedVersion: 3
@@ -9432,6 +9486,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &498462685
 SpriteRenderer:
   serializedVersion: 3
@@ -9612,6 +9668,7 @@ GameObject:
   - component: {fileID: 507176052}
   - component: {fileID: 507176054}
   - component: {fileID: 507176053}
+  - component: {fileID: 507176055}
   m_Layer: 0
   m_Name: Electron (1)
   m_TagString: Untagged
@@ -9656,6 +9713,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 507176055}
+  orbitSegments: 60
 --- !u!212 &507176054
 SpriteRenderer:
   serializedVersion: 3
@@ -9716,6 +9775,116 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!120 &507176055
+LineRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 507176051}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 10
+  m_MaskInteraction: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.0234375
+        value: 0.03813559
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    textureScale: {x: 2, y: 2}
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
+  m_ApplyActiveColorSpace: 1
 --- !u!1 &511613346
 GameObject:
   m_ObjectHideFlags: 0
@@ -9771,6 +9940,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &511613349
 SpriteRenderer:
   serializedVersion: 3
@@ -10241,6 +10412,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &533938082
 SpriteRenderer:
   serializedVersion: 3
@@ -10901,6 +11074,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &555440669
 SpriteRenderer:
   serializedVersion: 3
@@ -11016,6 +11191,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &561744457
 SpriteRenderer:
   serializedVersion: 3
@@ -11087,6 +11264,7 @@ GameObject:
   - component: {fileID: 562611556}
   - component: {fileID: 562611558}
   - component: {fileID: 562611557}
+  - component: {fileID: 562611559}
   m_Layer: 0
   m_Name: Electron (101)
   m_TagString: Untagged
@@ -11131,6 +11309,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 562611559}
+  orbitSegments: 60
 --- !u!212 &562611558
 SpriteRenderer:
   serializedVersion: 3
@@ -11191,6 +11371,116 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!120 &562611559
+LineRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 562611555}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 10
+  m_MaskInteraction: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.0234375
+        value: 0.03813559
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    textureScale: {x: 2, y: 2}
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
+  m_ApplyActiveColorSpace: 1
 --- !u!1 &566457198
 GameObject:
   m_ObjectHideFlags: 0
@@ -11246,6 +11536,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &566457201
 SpriteRenderer:
   serializedVersion: 3
@@ -11361,6 +11653,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &571544085
 SpriteRenderer:
   serializedVersion: 3
@@ -11476,6 +11770,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &581454869
 SpriteRenderer:
   serializedVersion: 3
@@ -11700,6 +11996,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &591336206
 SpriteRenderer:
   serializedVersion: 3
@@ -12033,6 +12331,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &607452042
 SpriteRenderer:
   serializedVersion: 3
@@ -12362,6 +12662,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &621779234
 SpriteRenderer:
   serializedVersion: 3
@@ -13240,6 +13542,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &680176766
 SpriteRenderer:
   serializedVersion: 3
@@ -13355,6 +13659,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &685892796
 SpriteRenderer:
   serializedVersion: 3
@@ -13688,6 +13994,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &712383360
 SpriteRenderer:
   serializedVersion: 3
@@ -13803,6 +14111,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &712987808
 SpriteRenderer:
   serializedVersion: 3
@@ -13918,6 +14228,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &715635532
 SpriteRenderer:
   serializedVersion: 3
@@ -14680,6 +14992,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &758153607
 SpriteRenderer:
   serializedVersion: 3
@@ -14795,6 +15109,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &770325424
 SpriteRenderer:
   serializedVersion: 3
@@ -15220,6 +15536,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &784635546
 SpriteRenderer:
   serializedVersion: 3
@@ -16752,6 +17070,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &836346185
 SpriteRenderer:
   serializedVersion: 3
@@ -16867,6 +17187,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &839987486
 SpriteRenderer:
   serializedVersion: 3
@@ -17418,6 +17740,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &865667923
 SpriteRenderer:
   serializedVersion: 3
@@ -17642,6 +17966,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &891559566
 SpriteRenderer:
   serializedVersion: 3
@@ -18258,6 +18584,7 @@ GameObject:
   - component: {fileID: 930994358}
   - component: {fileID: 930994360}
   - component: {fileID: 930994359}
+  - component: {fileID: 930994361}
   m_Layer: 0
   m_Name: Electron (11)
   m_TagString: Untagged
@@ -18302,6 +18629,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 930994361}
+  orbitSegments: 60
 --- !u!212 &930994360
 SpriteRenderer:
   serializedVersion: 3
@@ -18362,6 +18691,116 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!120 &930994361
+LineRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 930994357}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 10
+  m_MaskInteraction: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.0234375
+        value: 0.03813559
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    textureScale: {x: 2, y: 2}
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
+  m_ApplyActiveColorSpace: 1
 --- !u!1 &945777757
 GameObject:
   m_ObjectHideFlags: 0
@@ -18417,6 +18856,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &945777760
 SpriteRenderer:
   serializedVersion: 3
@@ -18641,6 +19082,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &946368614
 SpriteRenderer:
   serializedVersion: 3
@@ -19652,6 +20095,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1006195775
 SpriteRenderer:
   serializedVersion: 3
@@ -19767,6 +20212,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1013273526
 SpriteRenderer:
   serializedVersion: 3
@@ -20318,6 +20765,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1029951686
 SpriteRenderer:
   serializedVersion: 3
@@ -20542,6 +20991,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1055168738
 SpriteRenderer:
   serializedVersion: 3
@@ -20657,6 +21108,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1058964316
 SpriteRenderer:
   serializedVersion: 3
@@ -20772,6 +21225,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1060422329
 SpriteRenderer:
   serializedVersion: 3
@@ -20887,6 +21342,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1073501066
 SpriteRenderer:
   serializedVersion: 3
@@ -21220,6 +21677,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1104382634
 SpriteRenderer:
   serializedVersion: 3
@@ -21335,6 +21794,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1107941573
 SpriteRenderer:
   serializedVersion: 3
@@ -22169,6 +22630,7 @@ GameObject:
   - component: {fileID: 1168471287}
   - component: {fileID: 1168471289}
   - component: {fileID: 1168471288}
+  - component: {fileID: 1168471290}
   m_Layer: 0
   m_Name: Electron (29)
   m_TagString: Untagged
@@ -22213,6 +22675,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 1168471290}
+  orbitSegments: 60
 --- !u!212 &1168471289
 SpriteRenderer:
   serializedVersion: 3
@@ -22273,6 +22737,116 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!120 &1168471290
+LineRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1168471286}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 10
+  m_MaskInteraction: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.0234375
+        value: 0.03813559
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    textureScale: {x: 2, y: 2}
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
+  m_ApplyActiveColorSpace: 1
 --- !u!1 &1176251188
 GameObject:
   m_ObjectHideFlags: 0
@@ -23015,6 +23589,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1223925309
 SpriteRenderer:
   serializedVersion: 3
@@ -23708,6 +24284,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1255439323
 SpriteRenderer:
   serializedVersion: 3
@@ -24150,6 +24728,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1288014329
 SpriteRenderer:
   serializedVersion: 3
@@ -24265,6 +24845,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1289618635
 SpriteRenderer:
   serializedVersion: 3
@@ -24380,6 +24962,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1297188788
 SpriteRenderer:
   serializedVersion: 3
@@ -25694,6 +26278,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1357066061
 SpriteRenderer:
   serializedVersion: 3
@@ -25809,6 +26395,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1357074651
 SpriteRenderer:
   serializedVersion: 3
@@ -26469,6 +27057,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1380966408
 SpriteRenderer:
   serializedVersion: 3
@@ -26584,6 +27174,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1395094691
 SpriteRenderer:
   serializedVersion: 3
@@ -26917,6 +27509,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1417861847
 SpriteRenderer:
   serializedVersion: 3
@@ -27141,6 +27735,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1431655698
 SpriteRenderer:
   serializedVersion: 3
@@ -27365,6 +27961,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1442681331
 SpriteRenderer:
   serializedVersion: 3
@@ -28243,6 +28841,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1475555918
 SpriteRenderer:
   serializedVersion: 3
@@ -29775,6 +30375,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1554013257
 SpriteRenderer:
   serializedVersion: 3
@@ -30435,6 +31037,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1601553931
 SpriteRenderer:
   serializedVersion: 3
@@ -30768,6 +31372,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1612902603
 SpriteRenderer:
   serializedVersion: 3
@@ -32008,6 +32614,7 @@ GameObject:
   - component: {fileID: 1667893091}
   - component: {fileID: 1667893093}
   - component: {fileID: 1667893092}
+  - component: {fileID: 1667893094}
   m_Layer: 0
   m_Name: Electron (61)
   m_TagString: Untagged
@@ -32052,6 +32659,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 1667893094}
+  orbitSegments: 60
 --- !u!212 &1667893093
 SpriteRenderer:
   serializedVersion: 3
@@ -32112,6 +32721,116 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!120 &1667893094
+LineRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1667893090}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 10
+  m_MaskInteraction: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.0234375
+        value: 0.03813559
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    textureScale: {x: 2, y: 2}
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
+  m_ApplyActiveColorSpace: 1
 --- !u!1 &1684343182
 GameObject:
   m_ObjectHideFlags: 0
@@ -32385,6 +33104,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1686591255
 SpriteRenderer:
   serializedVersion: 3
@@ -33045,6 +33766,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1729737491
 SpriteRenderer:
   serializedVersion: 3
@@ -33160,6 +33883,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1745286868
 SpriteRenderer:
   serializedVersion: 3
@@ -33384,6 +34109,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1765055549
 SpriteRenderer:
   serializedVersion: 3
@@ -33826,6 +34553,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1772608215
 SpriteRenderer:
   serializedVersion: 3
@@ -34377,6 +35106,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1798847945
 SpriteRenderer:
   serializedVersion: 3
@@ -34993,6 +35724,7 @@ GameObject:
   - component: {fileID: 1811440548}
   - component: {fileID: 1811440550}
   - component: {fileID: 1811440549}
+  - component: {fileID: 1811440551}
   m_Layer: 0
   m_Name: Electron (3)
   m_TagString: Untagged
@@ -35037,6 +35769,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 1811440551}
+  orbitSegments: 60
 --- !u!212 &1811440550
 SpriteRenderer:
   serializedVersion: 3
@@ -35097,6 +35831,116 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!120 &1811440551
+LineRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1811440547}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 10
+  m_MaskInteraction: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.0234375
+        value: 0.03813559
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    textureScale: {x: 2, y: 2}
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
+  m_ApplyActiveColorSpace: 1
 --- !u!1 &1813133197
 GameObject:
   m_ObjectHideFlags: 0
@@ -35479,6 +36323,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1822305516
 SpriteRenderer:
   serializedVersion: 3
@@ -36049,6 +36895,7 @@ GameObject:
   - component: {fileID: 1860172734}
   - component: {fileID: 1860172736}
   - component: {fileID: 1860172735}
+  - component: {fileID: 1860172737}
   m_Layer: 0
   m_Name: Electron (93)
   m_TagString: Untagged
@@ -36093,6 +36940,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 1860172737}
+  orbitSegments: 60
 --- !u!212 &1860172736
 SpriteRenderer:
   serializedVersion: 3
@@ -36153,6 +37002,116 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!120 &1860172737
+LineRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1860172733}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 10
+  m_MaskInteraction: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.0234375
+        value: 0.03813559
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    textureScale: {x: 2, y: 2}
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
+  m_ApplyActiveColorSpace: 1
 --- !u!1 &1863957255
 GameObject:
   m_ObjectHideFlags: 0
@@ -36208,6 +37167,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1863957258
 SpriteRenderer:
   serializedVersion: 3
@@ -36323,6 +37284,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1871287960
 SpriteRenderer:
   serializedVersion: 3
@@ -37412,6 +38375,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1940200504
 SpriteRenderer:
   serializedVersion: 3
@@ -37527,6 +38492,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1944136768
 SpriteRenderer:
   serializedVersion: 3
@@ -38078,6 +39045,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1979726153
 SpriteRenderer:
   serializedVersion: 3
@@ -38411,6 +39380,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &1981062842
 SpriteRenderer:
   serializedVersion: 3
@@ -38853,6 +39824,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &2004654603
 SpriteRenderer:
   serializedVersion: 3
@@ -39443,6 +40416,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &2036049170
 SpriteRenderer:
   serializedVersion: 3
@@ -39558,6 +40533,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &2048429757
 SpriteRenderer:
   serializedVersion: 3
@@ -39673,6 +40650,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &2051668761
 SpriteRenderer:
   serializedVersion: 3
@@ -40987,6 +41966,8 @@ MonoBehaviour:
   nucleusOrder: 10
   frontOffset: 5
   backOffset: 5
+  orbitLine: {fileID: 0}
+  orbitSegments: 60
 --- !u!212 &2139876714
 SpriteRenderer:
   serializedVersion: 3
